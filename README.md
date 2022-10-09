@@ -1,4 +1,4 @@
-## Olá, eu sou o Rafael Mauricio, Estudante de Análise e Desenvolvimento de Sistemas e desenvolvo páginas web ficticía!
+## Olá, eu sou o Rafael Mauricio, Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de páginas web ficticía!
 <div align="center">
   <a href="https://github.com/Rafael-M-Silva">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Rafael-M-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
