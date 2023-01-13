@@ -1,9 +1,6 @@
 ## Olá, eu sou o Rafael Mauricio, Estudante de Análise e Desenvolvimento de Sistemas, e desenvolvedor de páginas web ficticía!
 <div align="center">
   <a href="https://github.com/Rafael-M-Silva">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Rafael-M-Silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-M-Silva&layout=compact&langs_count=7&theme=radical"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
