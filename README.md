@@ -13,7 +13,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rafael-M-Silva&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/652001601430618114/1027803375540109342/rafaelbigode.png">
 ---
 [![](https://visitcount.itsvg.in/api?id=Rafael-M-Silva&icon=0&color=0)](https://visitcount.itsvg.in)
 
