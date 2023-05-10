@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rafael_mauricio@hotmail.com**
 
-- 📄 Know about my experiences [Experience with Front-end (JavaScript and React). I develop Newsletter, Projects from the faculty and my projects privete.](Experience with Front-end (JavaScript and React). I develop Newsletter, Projects from the faculty and my projects privete.)
+- 📄 Know about my experiences Experience with Front-end (JavaScript and React). I develop Newsletter, Projects from the faculty and my projects privete.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
