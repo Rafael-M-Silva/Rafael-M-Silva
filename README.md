@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-react-amber-three.vercel.app](https://portfolio-react-amber-three.vercel.app)
-
 - 📫 How to reach me **rafael_mauricio@hotmail.com**
 
 - 📄 Know about my experiences Experience with Front-end (JavaScript and React). I develop Newsletter, Projects from the faculty and my projects privete.
