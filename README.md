@@ -46,4 +46,4 @@ Desenvolvedor front-end com experiência em ensino, mentoria e desenvolvimento d
 <a href="https://www.linkedin.com/in/rafael-mauricio-dev/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-mauricio-dev" height="25" width="25" />
 </a>
-&nbsp; &nbsp; **rafael_mauricio@hotmail.com**
+&nbsp; &nbsp; rafael_mauricio@hotmail.com
