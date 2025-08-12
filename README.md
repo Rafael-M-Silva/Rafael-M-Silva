@@ -7,7 +7,6 @@ Desenvolvedor front-end com experiência em ensino, mentoria e desenvolvimento d
 - 🎓 Professor acadêmico de **Desenvolvimento Front-End** e **UI/UX Design com Figma, HTML, CSS e JavaScript**
 - 👨‍🏫 Tutor no **Instituto PROA** em parceria com o **Senac Lapa**, auxiliando jovens na formação técnica em tecnologia
 - 🧑‍💻 Freelancer desenvolvendo interfaces com **React.js, Next.js e Tailwind CSS**
-- 🌱 Estudando **Node.js** e **APIs RESTful** para me tornar um desenvolvedor full stack
 - 🚀 Buscando participar de projetos desafiadores e transformar ideias em experiências digitais reais
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -40,7 +39,20 @@ Desenvolvedor front-end com experiência em ensino, mentoria e desenvolvimento d
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
   </a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>
+  </a>
 </p>
+
 
 ### 📫 Como me encontrar:
 <a href="https://www.linkedin.com/in/rafael-mauricio-dev/" target="_blank">
