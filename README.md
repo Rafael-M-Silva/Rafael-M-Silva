@@ -5,7 +5,7 @@ Desenvolvedor front-end com experiência em ensino, mentoria e desenvolvimento d
 </p>
 
 - 🎓 Professor acadêmico de **Desenvolvimento Front-End** e **UI/UX Design com Figma, HTML, CSS e JavaScript**
-- 👨‍🏫 Mentor no **Instituto PROA** em parceria com o **Senac Lapa**, auxiliando jovens na formação técnica em tecnologia
+- 👨‍🏫 Tutor no **Instituto PROA** em parceria com o **Senac Lapa**, auxiliando jovens na formação técnica em tecnologia
 - 🧑‍💻 Freelancer desenvolvendo interfaces com **React.js, Next.js e Tailwind CSS**
 - 🌱 Estudando **Node.js** e **APIs RESTful** para me tornar um desenvolvedor full stack
 - 🚀 Buscando participar de projetos desafiadores e transformar ideias em experiências digitais reais
