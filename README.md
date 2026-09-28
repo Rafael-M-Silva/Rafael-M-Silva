@@ -1,61 +1,45 @@
-<h1 align="center">Hi 👋, I'm Rafael Mauricio</h1>
+# Rafael Mauricio | Bigode
 
-<p align="center">
-Desenvolvedor front-end com experiência em ensino, mentoria e desenvolvimento de interfaces modernas com foco em experiência do usuário.
-</p>
+Desenvolvedor, professor de Front-End e UI/UX e tutor técnico. Crio interfaces e aplicações web, ensino programação e exploro o uso de inteligência artificial em projetos práticos.
 
-- 🎓 Professor acadêmico de **Desenvolvimento Front-End** e **UI/UX Design com Figma, HTML, CSS e JavaScript**
-- 👨‍🏫 Tutor no **Instituto PROA** em parceria com o **Senac Lapa**, auxiliando jovens na formação técnica em tecnologia
-- 🧑‍💻 Freelancer desenvolvendo interfaces com **React.js, Next.js e Tailwind CSS**
-- 🚀 Buscando participar de projetos desafiadores e transformar ideias em experiências digitais reais
+## Sobre mim
 
-### 🛠️ Tecnologias e Ferramentas
+Meu trabalho conecta **desenvolvimento, ensino, tecnologia e IA**. Gosto de transformar conceitos técnicos em experiências que as pessoas possam usar e entender, seja em uma aplicação, em sala de aula ou em uma mentoria.
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="30" height="30"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="30" height="30"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  </a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>
-  </a>
-</p>
+## Atualmente
 
+- Desenvolvo projetos com React, Next.js, JavaScript e TypeScript.
+- Experimento integrações com modelos de linguagem em aplicações voltadas a problemas concretos.
+- Produzo e utilizo projetos didáticos para ensinar Front-End, UI/UX e lógica de programação.
 
-### 📫 Como me encontrar:
-<a href="https://www.linkedin.com/in/rafael-mauricio-dev/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-mauricio-dev" height="25" width="25" />
-</a>
-&nbsp; &nbsp; rafael_mauricio@hotmail.com
+## Tecnologias
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS.
+- **Backend e integrações:** Node.js, Express e APIs REST.
+- **IA aplicada:** integração com Ollama e OpenAI; contexto de conhecimento em aplicações de chat.
+- **Outros estudos:** Java e Kotlin.
+- **Design e ferramentas:** Figma, Git e GitHub.
+
+## Projetos em destaque
+
+| Projeto | O que mostra | Stack |
+| --- | --- | --- |
+| [Professor Bigode IA](https://github.com/Rafael-M-Silva/professor-bigode-ia) | Chat de apoio a dúvidas de programação com persona didática e contexto de conhecimento. | Next.js, TypeScript, Ollama |
+| [Civilize AI](https://github.com/Rafael-M-Silva/Civilize-AI) | Interface de aprendizagem cívica gamificada. | React, Vite, componentes Radix UI |
+| [Kuma AI](https://github.com/Rafael-M-Silva/Kuma-AI) | Protótipo de geração de fichas de treino com IA. | Next.js, Express, Ollama |
+| [Diet-IA](https://github.com/Rafael-M-Silva/Diet-IA) | Protótipo de geração de planos alimentares com IA. | Next.js, TypeScript, OpenAI |
+| [Marmitando](https://github.com/Rafael-M-Silva/Marmitando) | Cardápio e fluxo de pedidos de marmitas. | HTML, CSS, JavaScript |
+| [URSO](https://github.com/Rafael-M-Silva/Urso) | Landing page e identidade visual criadas em um hackathon. | HTML, CSS |
+| [Rick and Morty Explorer](https://github.com/Rafael-M-Silva/Rick-and-Morty-Explorer) | Exemplo didático de consumo de API com JavaScript assíncrono. | HTML, CSS, JavaScript |
+
+## Ensino e comunidade
+
+Atuo como professor de Front-End e UI/UX e como tutor técnico. Muitos repositórios deste perfil são exercícios, demonstrações de aula e projetos de estudo; eles mostram o processo de aprendizagem e os conceitos praticados, sem representar produtos comerciais.
+
+## Conteúdo e contato
+
+- [Site — Bigode Ensina](https://bigodeensina.com.br/)
+- [LinkedIn](https://linkedin.com/in/rafael-mauricio-dev/)
+- [YouTube — Bigode Ensina](https://www.youtube.com/@BigodeEnsina)
+- [TikTok — Bigode Dev](https://www.tiktok.com/@bigodedev)
+- [GitHub](https://github.com/Rafael-M-Silva)
